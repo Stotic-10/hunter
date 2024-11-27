@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": "a10b",
+      "first_name": "ABU",
+      "last_name": "VORA",
+      "email": "abdullah11@gmail.com",
+      "mobile": "8745424",
+      "gender": "female",
+      "finalHobby": "Swimming,Cricket"
+    },
+    {
+      "id": "1679",
+      "first_name": "BLACK",
+      "last_name": "MASK",
+      "email": "black@gmail.com",
+      "mobile": "45855855",
+      "gender": "male",
+      "finalHobby": "Football,Cricket"
+    }
+  ]
+}
